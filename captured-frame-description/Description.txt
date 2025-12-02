@@ -1,0 +1,15 @@
+frame_1_47.jpg: left elbow ~155°; right elbow ~157°; shoulder tilt clockwise 175.4°.
+
+frame_2_103.jpg: left elbow ~150°; right elbow ~170°; shoulder tilt clockwise 177.4°.
+
+frame_3_374.jpg: left elbow ~7°; right elbow ~74°; shoulder tilt counterclockwise -151.7°.
+
+frame_4_619.jpg: left elbow ~117°; right elbow ~143°; shoulder tilt clockwise 11.7°.
+
+frame_5_640.jpg: left elbow ~104°; right elbow ~131°; shoulder tilt clockwise 13.5°.
+
+frame_6_654.jpg: left elbow ~95°; right elbow ~135°; shoulder tilt clockwise 8.2°.
+
+frame_7_686.jpg: left elbow ~64°; right elbow ~102°; shoulder tilt clockwise 11.8°.
+
+frame_8_750.jpg: left elbow ~67°; right elbow ~151°.
