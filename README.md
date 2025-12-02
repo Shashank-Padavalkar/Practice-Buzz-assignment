@@ -60,5 +60,17 @@ The left elbow shows a large decrease in angle across the sequence, indicating a
 
 ---
 
-## 5. Pose Observations (Per Frame)
+## Pose Estimation Summary (Per Frame)
+
+| Frame            | Left Elbow (°) | Right Elbow (°) | Shoulder Tilt |
+|------------------|----------------|-----------------|----------------------------|
+| frame_1_47.jpg   | 155°           | 157°            | clockwise 175.4°           |
+| frame_2_103.jpg  | 150°           | 170°            | clockwise 177.4°           |
+| frame_3_374.jpg  | 7°             | 74°             | counterclockwise -151.7°   |
+| frame_4_619.jpg  | 117°           | 143°            | clockwise 11.7°            |
+| frame_5_640.jpg  | 104°           | 131°            | clockwise 13.5°            |
+| frame_6_654.jpg  | 95°            | 135°            | clockwise 8.2°             |
+| frame_7_686.jpg  | 64°            | 102°            | clockwise 11.8°            |
+| frame_8_750.jpg  | 67°            | 151°            | —                          |
+
 
